@@ -1,179 +1,544 @@
-# Local Services & Jobs | خدمات ووظائف — BusineSooq
+# سوق العمل BusineSooq | خدمات بالقرب منك ووظائف وفرص عمل
 
-**BusineSooq | سوق العمل** is a location-based marketplace designed to help people discover **local services, skilled professionals, service providers, jobs, and employment opportunities** based on their location.
+**سوق العمل – BusineSooq** منصة تعتمد على **الموقع الجغرافي** لمساعدة المستخدمين في العثور على **الخدمات المحلية، أصحاب المهن، الفنيين، الحرفيين، المهندسين، المدرسين، السائقين، مقدمي الخدمات، الشركات، الوظائف وفرص العمل** حسب موقعهم.
 
-**سوق العمل** دليل ومنصة تعتمد على الموقع الجغرافي لتسهيل الوصول إلى **الخدمات المحلية، أصحاب المهن، مقدمي الخدمات، الوظائف وفرص العمل**.
+إذا كنت تبحث عن **فني قريب منك، سباك، كهربائي، فني تكييف، نجار، ميكانيكي سيارات، مدرس خصوصي، مهندس، مبرمج، سائق، مقاول أو وظيفة**، يساعدك سوق العمل في الوصول إلى التصنيف المناسب واستكشاف الإعلانات المتاحة.
 
-🌐 [Visit BusineSooq | زيارة سوق العمل](https://businesooq.com/)
-
----
-
-## Local Services | الخدمات المحلية
-
-BusineSooq helps users discover service providers and skilled professionals for everyday personal, home, business, technical, and professional needs.
-
-يمكن للمستخدمين البحث عن مقدمي الخدمات وأصحاب المهن حسب الموقع الجغرافي والوصول إلى الخدمات المتوفرة بالقرب منهم.
-
-### Popular service categories
-
-* Electricians | كهربائي
-* Plumbers | سباك
-* Air Conditioning Technicians | فني تكييف
-* Carpenters | نجار
-* Mechanics | ميكانيكي
-* Maintenance Technicians | فني صيانة
-* Cleaning Services | خدمات تنظيف
-* Contractors | مقاولون
-* Engineers | مهندسون
-* Programmers | مبرمجون
-* Teachers & Private Tutors | مدرسون ومدرسون خصوصيون
-* Professional Services | خدمات مهنية
-* Local Businesses | شركات وخدمات محلية
-
-👉 [Find local services on BusineSooq](https://businesooq.com/)
+🌐 **[زيارة الموقع الرسمي لسوق العمل](https://businesooq.com/)**
 
 ---
 
-## Find Services Near You | ابحث عن خدمة بالقرب منك
+# 📚 أدلة سوق العمل
 
-Location is an important part of BusineSooq.
+ابدأ من الدليل المناسب لاحتياجك:
 
-Instead of browsing unrelated listings, users can discover services and professionals relevant to their area.
+### 🛠️ الخدمات والمهن
 
-سوق العمل يساعد المستخدم على اكتشاف الخدمات ومقدمي الخدمات بناءً على موقعه، مما يجعل الوصول إلى الشخص المناسب أكثر سهولة وسرعة.
+**[دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)**
 
-Examples of common searches include:
+دليل عربي شامل للفنيين، الحرفيين، المهندسين، المدرسين، خدمات السيارات، المقاولات، الخدمات المنزلية، التقنية، النقل، السياحة وغيرها.
 
-* Electrician near me
-* Plumber near me
-* AC technician near me
-* Carpenter near me
-* Mechanic near me
-* Maintenance services near me
-* Local professionals
-* Local service providers
+### 💼 الوظائف وفرص العمل
 
----
+**[دليل الوظائف وفرص العمل](jobs/jobs.md)**
 
-## Skilled Professionals | أصحاب المهن والمهارات
+للبحث عن الوظائف، فرص العمل، الوظائف بالقرب منك، وظائف الفنيين، المهندسين، المدرسين، السائقين، المبرمجين وغيرها.
 
-BusineSooq provides professionals with a place to present their services and connect with potential customers.
+### 🇸🇦 المملكة العربية السعودية
 
-The platform can be used by:
+**[دليل الخدمات والوظائف في السعودية](countries/saudi-arabia.md)**
 
-* Technicians
-* Craftsmen
-* Freelancers
-* Contractors
-* Skilled workers
-* Teachers
-* Engineers
-* Programmers
-* Professional service providers
-* Local businesses
+دليل مخصص للبحث عن الخدمات والوظائف في الرياض، جدة، مكة، المدينة المنورة، الدمام، الخبر، تبوك، الطائف، أبها وغيرها.
 
-إذا كنت مقدم خدمة أو صاحب مهنة، يمكنك إضافة خدمتك لتصبح متاحة للمستخدمين الباحثين عن خدمات مشابهة في منطقتك.
+### 🇪🇬 مصر
 
-👉 [Offer your service on BusineSooq](https://businesooq.com/)
+**[دليل الخدمات والوظائف في مصر](countries/egypt.md)**
+
+دليل للبحث عن الخدمات والوظائف في القاهرة، الجيزة، 6 أكتوبر، الشيخ زايد، القاهرة الجديدة، الإسكندرية ومحافظات ومدن مصر.
 
 ---
 
-## Jobs & Employment Opportunities | الوظائف وفرص العمل
+# 🔎 ابحث عن خدمة بالقرب منك
 
-BusineSooq also supports job discovery and employment listings.
+يعتمد سوق العمل على **الموقع الجغرافي** لتسهيل اكتشاف مقدمي الخدمات والإعلانات المتاحة في منطقتك.
 
-Job seekers can browse opportunities while businesses and employers can publish available positions.
+قد تبحث عن:
 
-يوفر سوق العمل كذلك إعلانات الوظائف وفرص العمل، مما يساعد الباحثين عن عمل على اكتشاف الفرص المتاحة، ويسمح لأصحاب الأعمال والشركات بالوصول إلى المتقدمين.
+* فني قريب مني
+* سباك قريب مني
+* كهربائي قريب مني
+* فني تكييف قريب مني
+* نجار قريب مني
+* ميكانيكي سيارات قريب مني
+* مدرس خصوصي قريب مني
+* سائق قريب مني
+* عامل تنظيف قريب مني
+* مقاول قريب مني
+* مهندس قريب مني
+* مبرمج قريب مني
+* خدمات منزلية بالقرب مني
+* خدمات صيانة بالقرب مني
 
-### Job-related discovery
+🛠️ **[استكشف دليل الخدمات المحلية](services/local-services.md)**
 
-* Full-time jobs
-* Part-time jobs
-* Contract opportunities
-* Temporary work
-* Training opportunities
-* Local jobs
-* On-site jobs
-* Remote opportunities
-* Skilled-worker opportunities
-
-👉 [Discover jobs and opportunities on BusineSooq](https://businesooq.com/)
-
----
-
-## How BusineSooq Works | كيف يعمل سوق العمل؟
-
-### For customers
-
-1. Search for the service you need.
-2. Browse relevant local listings.
-3. Review available provider information.
-4. Contact the appropriate service provider.
-5. Choose the option that fits your needs.
-
-### For service providers
-
-1. Create an account.
-2. Add your service.
-3. Specify the service location.
-4. Become discoverable by potential customers.
-5. Receive and respond to inquiries.
-
-### For job seekers
-
-1. Browse available jobs.
-2. Filter opportunities according to your needs.
-3. Review the job details.
-4. Contact or apply according to the listing information.
+🌐 **[ابحث عن الخدمات المتاحة على سوق العمل](https://businesooq.com/)**
 
 ---
 
-## Location-Based Marketplace | منصة تعتمد على الموقع الجغرافي
+# 🛠️ الفنيون والحرفيون وخدمات الصيانة
 
-BusineSooq connects multiple sides of the local marketplace:
+إذا كنت تحتاج إلى فني أو حرفي لأعمال الصيانة والإصلاح والتركيب، يمكنك تصفح قسم الفنيين والحرفيين.
 
-**Customers ↔ Service Providers ↔ Professionals ↔ Businesses ↔ Job Seekers ↔ Employers**
+### خدمات شائعة
 
-The platform focuses on making local discovery easier by combining services, professional skills, and job opportunities in one place.
+* ⚡ [ابحث عن كهربائي وخدمات الكهرباء](https://businesooq.com/ads/technicians-handymen/electrician)
+* 🚰 [ابحث عن سباك وخدمات السباكة](https://businesooq.com/ads/technicians-handymen/plumbing)
+* ❄️ [ابحث عن فني تكييف وتبريد](https://businesooq.com/ads/technicians-handymen/air-conditioning-and-refrigera)
+* 🪚 [ابحث عن نجار وخدمات النجارة](https://businesooq.com/ads/technicians-handymen/carpenter)
+* 🎨 [ابحث عن نقاش ودهان](https://businesooq.com/ads/technicians-handymen/painting)
+* 🔧 [ابحث عن فني صيانة أجهزة منزلية](https://businesooq.com/ads/technicians-handymen/appliance-repair)
+* 📹 [ابحث عن فني كاميرات مراقبة](https://businesooq.com/ads/technicians-handymen/cctv)
+* 🐜 [ابحث عن خدمات مكافحة الحشرات](https://businesooq.com/ads/technicians-handymen/pest-control)
 
-يجمع سوق العمل بين الباحثين عن الخدمات، مقدمي الخدمات، أصحاب المهن، الشركات، الباحثين عن وظائف وأصحاب الأعمال ضمن منصة واحدة تعتمد على الموقع الجغرافي.
-
----
-
-## Download BusineSooq
-
-### Android
-
-[Download BusineSooq from Google Play](https://play.google.com/store/apps/details?id=com.businesooq.businesooq)
-
-### iPhone & iPad
-
-[Download BusineSooq from the Apple App Store](https://apps.apple.com/sa/app/businesooq-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84/id6756981294?l=ar)
+👉 **[جميع الفنيين والحرفيين وخدمات الصيانة](https://businesooq.com/ads/technicians-handymen)**
 
 ---
 
-## Official BusineSooq Resources
+# 🚗 خدمات السيارات والميكانيكا
 
-* 🌐 [BusineSooq Official Website](https://businesooq.com/)
-* 🔐 [Privacy Policy](https://businesooq.com/en/privacy-policy)
-* 📄 [Terms & Conditions](https://businesooq.com/en/terms-and-condition)
-* 🤖 [BusineSooq on Google Play](https://play.google.com/store/apps/details?id=com.businesooq.businesooq)
-* 🍎 [BusineSooq on the App Store](https://apps.apple.com/sa/app/businesooq-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84/id6756981294?l=ar)
+يمكنك البحث عن خدمات صيانة وإصلاح السيارات ومقدمي الخدمات المرتبطين بالمركبات.
+
+### خدمات سيارات شائعة
+
+* 🔧 [ميكانيكي سيارات](https://businesooq.com/ads/car-services/car-mechanic)
+* ⚡ [كهربائي سيارات](https://businesooq.com/ads/car-services/car-electrician)
+* 🚘 [سمكري وإصلاح هيكل السيارة](https://businesooq.com/ads/car-services/car-bodywork)
+* 🎨 [دهان وطلاء سيارات](https://businesooq.com/ads/car-services/car-paint)
+* 🛞 [إطارات وكاوتش سيارات](https://businesooq.com/ads/car-services/tires)
+* 🧰 [صيانة سيارات شاملة](https://businesooq.com/ads/car-services/full-car-service)
+
+🚗 **[تصفح جميع خدمات السيارات](https://businesooq.com/ads/car-services)**
 
 ---
 
-## About BusineSooq | عن سوق العمل
+# 👨‍🏫 مدرسون ومعلمون ودروس خصوصية
 
-**BusineSooq | سوق العمل** is a location-based marketplace connecting customers with nearby skilled professionals, local services, businesses, jobs, and employment opportunities.
+يساعد سوق العمل في الوصول إلى المدرسين والمعلمين بحسب المادة والتخصص والموقع.
 
-**سوق العمل** منصة تربط المستخدمين بمقدمي الخدمات وأصحاب المهن وفرص العمل حسب الموقع الجغرافي، وتهدف إلى جعل اكتشاف الخدمات المحلية والفرص المتاحة أكثر سهولة.
+يمكن البحث عن:
 
-**Official website:** [businesooq.com](https://businesooq.com/)
+* مدرس خصوصي
+* مدرس رياضيات
+* مدرس لغة إنجليزية
+* مدرس فيزياء
+* مدرس كيمياء
+* مدرس أحياء
+* مدرس محاسبة
+* مدرس برمجة
+* محفظ قرآن
 
-## 📚 أدلة سوق العمل
+### تصفح بعض التخصصات
 
-- [دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)
-- [دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)
-- [دليل الوظائف وفرص العمل](jobs/jobs.md)
+* 📐 [مدرس رياضيات](https://businesooq.com/ads/teachers-tutors/tutor-math)
+* 🇬🇧 [مدرس لغة إنجليزية](https://businesooq.com/ads/teachers-tutors/tutor-english)
+* ⚛️ [مدرس فيزياء](https://businesooq.com/ads/teachers-tutors/tutor-physics)
+* 🧪 [مدرس كيمياء](https://businesooq.com/ads/teachers-tutors/tutor-chemistry)
+* 💻 [مدرس برمجة](https://businesooq.com/ads/teachers-tutors/tutor-programming)
+* 📖 [تحفيظ القرآن الكريم](https://businesooq.com/ads/teachers-tutors/quran-memorization)
 
+👨‍🏫 **[ابحث عن مدرسين ومعلمين ودروس خصوصية](https://businesooq.com/ads/teachers-tutors)**
+
+---
+
+# 👷 مهندسون وخدمات هندسية
+
+يمكن الوصول إلى أصحاب التخصصات الهندسية المختلفة، ومنها:
+
+* مهندس مدني
+* مهندس معماري
+* مهندس إنشائي
+* مهندس ميكانيكا
+* مهندس كهرباء
+* مهندس برمجيات
+* مهندس مساحة
+* مهندس اتصالات وشبكات
+* مهندس طاقة متجددة
+* مهندس تصميم داخلي
+
+👷 **[ابحث عن مهندسين وخدمات هندسية](https://businesooq.com/ads/engineers)**
+
+---
+
+# 💻 برمجة وتقنية معلومات
+
+للباحثين عن متخصصين في البرمجة والتقنية:
+
+* [مطور مواقع ويب](https://businesooq.com/ads/information-technology/web-developer)
+* [مبرمج Flutter](https://businesooq.com/ads/information-technology/flutter-developer)
+* [مبرمج Android](https://businesooq.com/ads/information-technology/android-developer)
+* [مبرمج iOS](https://businesooq.com/ads/information-technology/ios-developer)
+* [مبرمج Python](https://businesooq.com/ads/information-technology/python-developer)
+* [فني شبكات](https://businesooq.com/ads/information-technology/networks)
+* [مصمم جرافيك](https://businesooq.com/ads/information-technology/graphic-designer)
+* [خدمات الأمن السيبراني](https://businesooq.com/ads/information-technology/cybersecurity)
+
+💻 **[تصفح خدمات تقنية المعلومات والبرمجة](https://businesooq.com/ads/information-technology)**
+
+---
+
+# 🚚 سائقون ونقل وتوصيل
+
+يمكن البحث عن:
+
+* سائق
+* سائق خاص
+* سائق تاكسي
+* سائق شاحنة
+* مندوب توصيل
+* خدمات دليفري
+* خدمات نقل
+* مشغلي معدات
+
+🚚 **[ابحث عن سائقين وخدمات النقل والتوصيل](https://businesooq.com/ads/drivers-transport)**
+
+---
+
+# 🏠 خدمات منزلية وعمالة
+
+من الخدمات المنزلية والمهنية التي يمكن تصفحها:
+
+* تنظيف المنازل
+* عمال تحميل وتنزيل
+* غسيل سيارات
+* عمال بناء
+* عمالة عامة
+* خدمات منزلية
+* جليسة أطفال
+* مساعد منزلي
+
+🏠 **[تصفح العمالة والخدمات المنزلية](https://businesooq.com/ads/workers-home-services)**
+
+---
+
+# 🏗️ مقاولون وتشطيبات
+
+لأعمال البناء والتشطيب والمشاريع:
+
+* مقاولات عامة
+* تشطيب شقق ومباني
+* جبس وجبس بورد
+* عزل
+* واجهات حجر
+* مقاولات كهربائية
+* مصاعد
+* نقل أثاث
+* طاقة شمسية
+* لاندسكيب
+
+🏗️ **[ابحث عن مقاولين وخدمات المقاولات والتشطيبات](https://businesooq.com/ads/contractors)**
+
+---
+
+# ⚖️ خدمات قانونية ومالية
+
+يمكن البحث عن:
+
+* محامي
+* استشارات قانونية
+* محاسب
+* مراجع حسابات
+* مراقب مالي
+* خدمات تمويل ودفع
+
+⚖️ **[تصفح الخدمات القانونية والمالية](https://businesooq.com/ads/legal-finance)**
+
+---
+
+# 🩺 خدمات طبية وصحية
+
+يشمل سوق العمل تصنيفات لمقدمي الخدمات في مجالات طبية وصحية متعددة، مثل:
+
+* طب الأسنان
+* العلاج الطبيعي
+* الجلدية
+* الباطنة
+* العظام
+* الأطفال
+* العيون
+* التمريض
+* المختبرات
+* مراكز الأشعة
+* تخصصات صحية أخرى
+
+🩺 **[تصفح الخدمات الطبية والصحية](https://businesooq.com/ads/medical-healthcare)**
+
+> المعلومات والإعلانات المنشورة لا تُعد بديلًا عن التقييم أو الاستشارة الطبية المهنية المناسبة.
+
+---
+
+# ✈️ سياحة وسفر
+
+تشمل خدمات السياحة والسفر:
+
+* مكاتب السياحة والسفر
+* حجز الطيران
+* حجز الفنادق
+* خدمات التأشيرات
+* الحج والعمرة
+* البرامج السياحية
+* السياحة العلاجية
+* الدراسة في الخارج
+* خدمات الهجرة
+
+✈️ **[تصفح خدمات السياحة والسفر](https://businesooq.com/ads/tourism-travel)**
+
+---
+
+# 🛒 تجارة وتوريدات
+
+يضم سوق العمل تصنيفات للتجار والموردين في قطاعات متعددة، من بينها:
+
+* مواد البناء
+* المستلزمات الكهربائية
+* الأدوات الصحية
+* الأثاث
+* الأخشاب
+* قطع الغيار
+* المستلزمات الطبية
+* الأدوات والمعدات
+* الأغذية والمنتجات الزراعية
+* الملابس والأقمشة
+* التعبئة والتغليف
+
+🛒 **[تصفح التجارة والتوريدات والموردين](https://businesooq.com/ads/trade-supply)**
+
+---
+
+# 🧰 تجهيز المحلات والمشاريع
+
+يمكن لأصحاب الأعمال البحث عن خدمات تجهيز:
+
+* المحلات والسوبر ماركت
+* المطاعم والكافيهات
+* الفنادق
+* المكاتب والشركات
+* الصيدليات
+* العيادات
+* صالات الجيم
+* الصالونات
+* ورش السيارات
+* ورش النجارة
+
+🧰 **[تصفح خدمات تجهيز المحلات والمشاريع](https://businesooq.com/ads/equipment-setup)**
+
+---
+
+# 💼 وظائف وفرص عمل
+
+لا يقتصر **سوق العمل** على الخدمات؛ توفر المنصة أيضًا قسمًا لإعلانات **الوظائف وفرص العمل**.
+
+يمكن للباحثين عن عمل استكشاف الفرص المنشورة، ويمكن للشركات وأصحاب الأعمال نشر إعلانات التوظيف.
+
+قد تبحث عن:
+
+* وظائف
+* وظائف اليوم
+* فرص عمل
+* وظائف بالقرب مني
+* وظائف بدون خبرة
+* وظائف للخريجين
+* وظائف دوام كامل
+* وظائف دوام جزئي
+* وظائف عن بعد
+* وظائف فنيين
+* وظائف مهندسين
+* وظائف مدرسين
+* وظائف سائقين
+* وظائف مبرمجين
+* وظائف محاسبين
+* وظائف عمال
+
+💼 **[تصفح الوظائف وفرص العمل على سوق العمل](https://businesooq.com/ads/jobs)**
+
+📚 **[اقرأ دليل الوظائف وفرص العمل](jobs/jobs.md)**
+
+---
+
+# 🌍 خدمات ووظائف حسب الدولة
+
+يتيح اعتماد سوق العمل على الموقع الجغرافي الوصول إلى الخدمات والإعلانات المرتبطة بالدولة أو المدينة.
+
+## 🇸🇦 السعودية
+
+إذا كنت تبحث عن **خدمات أو وظائف في السعودية**، يمكنك استخدام دليل مخصص يشمل عمليات البحث المحلية في الرياض، جدة، مكة، المدينة المنورة، الدمام، الخبر، تبوك، الطائف وأبها.
+
+👉 **[دليل الخدمات والوظائف في المملكة العربية السعودية](countries/saudi-arabia.md)**
+
+## 🇪🇬 مصر
+
+للبحث عن **الخدمات والوظائف في مصر**، يوفر الدليل معلومات مرتبطة بالقاهرة، الجيزة، 6 أكتوبر، الشيخ زايد، القاهرة الجديدة، الإسكندرية ومدن ومحافظات أخرى.
+
+👉 **[دليل الخدمات والوظائف في مصر](countries/egypt.md)**
+
+---
+
+# 🧭 كيف يعمل سوق العمل؟
+
+## 👤 للباحث عن خدمة
+
+1. حدد الخدمة التي تحتاج إليها.
+2. اختر التصنيف المناسب.
+3. استخدم معلومات الموقع الجغرافي.
+4. استعرض الإعلانات ومقدمي الخدمات.
+5. راجع التفاصيل والمعلومات المتاحة.
+6. تواصل مع مقدم الخدمة المناسب.
+
+## 👷 لمقدم الخدمة
+
+1. أنشئ حسابًا.
+2. أضف خدمتك.
+3. اختر التصنيف الصحيح.
+4. حدد موقع تقديم الخدمة.
+5. أضف معلومات واضحة عن خدمتك.
+6. تواصل مع المستخدمين المهتمين.
+
+## 💼 للباحث عن وظيفة
+
+1. انتقل إلى قسم الوظائف.
+2. استعرض فرص العمل المنشورة.
+3. راجع المسمى والموقع والمتطلبات.
+4. اختر الوظيفة التي تناسب خبرتك ومهاراتك.
+5. تواصل أو تقدم وفق معلومات الإعلان.
+
+## 🏢 لأصحاب الأعمال
+
+يمكن للشركات وأصحاب الأعمال نشر الإعلانات والخدمات وفرص العمل وفق الخيارات التي توفرها المنصة.
+
+---
+
+# 📍 البحث حسب الموقع الجغرافي
+
+الموقع جزء أساسي من تجربة **سوق العمل**.
+
+بدل البحث في قوائم غير مرتبطة بمنطقتك، يساعد الموقع الجغرافي على جعل اكتشاف الإعلانات والخدمات أكثر ارتباطًا بمكان المستخدم.
+
+أمثلة:
+
+**سباك في الرياض**
+**فني تكييف في جدة**
+**كهربائي في القاهرة**
+**نجار في 6 أكتوبر**
+**ميكانيكي سيارات في الإسكندرية**
+**مدرس خصوصي في الرياض**
+**وظائف في القاهرة**
+
+توفر النتائج يعتمد على الإعلانات المنشورة فعليًا في كل موقع.
+
+---
+
+# 👷 هل أنت مقدم خدمة؟
+
+إذا كنت:
+
+* فنيًا
+* حرفيًا
+* مدرسًا
+* مهندسًا
+* مبرمجًا
+* سائقًا
+* ميكانيكيًا
+* مقاولًا
+* محاسبًا
+* مستقلاً
+* صاحب مهنة
+* شركة أو نشاطًا تجاريًا
+
+يمكنك استخدام سوق العمل لعرض خدماتك والوصول إلى مستخدمين يبحثون عن هذه الخدمات.
+
+🌐 **[أضف خدمتك على سوق العمل](https://businesooq.com/)**
+
+---
+
+# 🏢 هل تبحث عن موظفين؟
+
+يمكن لأصحاب الأعمال والشركات استخدام سوق العمل لنشر فرص العمل والوصول إلى الباحثين عن الوظائف.
+
+قد يشمل ذلك البحث عن:
+
+* موظفين
+* عمال
+* فنيين
+* مهندسين
+* سائقين
+* مدرسين
+* مبرمجين
+* محاسبين
+* أصحاب مهارات وخبرات متنوعة
+
+💼 **[زيارة سوق العمل لنشر واستكشاف الإعلانات](https://businesooq.com/)**
+
+---
+
+# 📱 تحميل تطبيق سوق العمل
+
+يمكن استخدام **BusineSooq | سوق العمل** من خلال الموقع الإلكتروني أو تطبيق الهاتف.
+
+### 🤖 Android
+
+**[تحميل تطبيق سوق العمل من Google Play](https://play.google.com/store/apps/details?id=com.businesooq.businesooq)**
+
+### 🍎 iPhone وiPad
+
+**[تحميل تطبيق سوق العمل من App Store](https://apps.apple.com/sa/app/businesooq-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84/id6756981294?l=ar)**
+
+---
+
+# 🔗 أهم روابط سوق العمل
+
+| القسم                    | الرابط                                                                            |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| 🌐 الموقع الرسمي         | [سوق العمل BusineSooq](https://businesooq.com/)                                   |
+| 🛠️ الفنيون والحرفيون    | [ابحث عن فنيين وحرفيين](https://businesooq.com/ads/technicians-handymen)          |
+| 👷 المهندسون             | [ابحث عن مهندسين](https://businesooq.com/ads/engineers)                           |
+| 👨‍🏫 المدرسون والمعلمون | [ابحث عن مدرسين ودروس خصوصية](https://businesooq.com/ads/teachers-tutors)         |
+| 🚗 خدمات السيارات        | [ابحث عن خدمات السيارات](https://businesooq.com/ads/car-services)                 |
+| 🚚 السائقون والنقل       | [ابحث عن سائقين وخدمات نقل](https://businesooq.com/ads/drivers-transport)         |
+| 🏗️ المقاولون            | [ابحث عن مقاولين وتشطيبات](https://businesooq.com/ads/contractors)                |
+| 🏠 الخدمات المنزلية      | [ابحث عن خدمات منزلية](https://businesooq.com/ads/workers-home-services)          |
+| 💻 تقنية المعلومات       | [ابحث عن مبرمجين وخدمات تقنية](https://businesooq.com/ads/information-technology) |
+| ⚖️ القانونية والمالية    | [ابحث عن محامين ومحاسبين](https://businesooq.com/ads/legal-finance)               |
+| ✈️ السياحة والسفر        | [ابحث عن خدمات سياحة وسفر](https://businesooq.com/ads/tourism-travel)             |
+| 💼 الوظائف               | [ابحث عن وظائف وفرص عمل](https://businesooq.com/ads/jobs)                         |
+
+---
+
+# 📚 جميع الأدلة
+
+* 🛠️ **[دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)**
+* 💼 **[دليل الوظائف وفرص العمل](jobs/jobs.md)**
+* 🇸🇦 **[دليل الخدمات والوظائف في السعودية](countries/saudi-arabia.md)**
+* 🇪🇬 **[دليل الخدمات والوظائف في مصر](countries/egypt.md)**
+
+---
+
+# 🌐 روابط BusineSooq الرسمية
+
+* 🌐 [الموقع الرسمي لسوق العمل](https://businesooq.com/)
+* 🤖 [تطبيق سوق العمل على Google Play](https://play.google.com/store/apps/details?id=com.businesooq.businesooq)
+* 🍎 [تطبيق سوق العمل على App Store](https://apps.apple.com/sa/app/businesooq-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84/id6756981294?l=ar)
+* 🔐 [سياسة الخصوصية](https://businesooq.com/en/privacy-policy)
+* 📄 [الشروط والأحكام](https://businesooq.com/en/terms-and-condition)
+
+---
+
+# عن سوق العمل | About BusineSooq
+
+**سوق العمل – BusineSooq** منصة تعتمد على الموقع الجغرافي لربط المستخدمين بمقدمي الخدمات، أصحاب المهن والمهارات، الشركات، الباحثين عن عمل وأصحاب فرص العمل.
+
+تجمع المنصة تصنيفات متعددة تشمل الخدمات الفنية والمهنية، خدمات السيارات، التعليم، الهندسة، التقنية، النقل، المقاولات، الخدمات المنزلية، السياحة، التجارة، الوظائف وغيرها.
+
+هدف سوق العمل هو جعل عملية اكتشاف **الخدمات المحلية ومقدمي الخدمات والوظائف وفرص العمل حسب الموقع** أكثر سهولة وتنظيمًا.
+
+**BusineSooq** is a location-based marketplace for local services, skilled professionals, service providers, businesses, jobs, and employment opportunities.
+
+🌐 **[BusineSooq | سوق العمل](https://businesooq.com/)**
+
+---
+
+## 🔎 ابدأ من هنا
+
+### أحتاج إلى خدمة
+
+🛠️ **[ابحث عن خدمة بالقرب منك](services/local-services.md)**
+
+### أبحث عن وظيفة
+
+💼 **[اكتشف الوظائف وفرص العمل](jobs/jobs.md)**
+
+### أبحث داخل السعودية
+
+🇸🇦 **[الخدمات والوظائف في السعودية](countries/saudi-arabia.md)**
+
+### أبحث داخل مصر
+
+🇪🇬 **[الخدمات والوظائف في مصر](countries/egypt.md)**
