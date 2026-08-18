@@ -170,3 +170,7 @@ The platform focuses on making local discovery easier by combining services, pro
 **سوق العمل** منصة تربط المستخدمين بمقدمي الخدمات وأصحاب المهن وفرص العمل حسب الموقع الجغرافي، وتهدف إلى جعل اكتشاف الخدمات المحلية والفرص المتاحة أكثر سهولة.
 
 **Official website:** [businesooq.com](https://businesooq.com/)
+
+## 📚 أدلة سوق العمل
+
+- [دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)
