@@ -174,3 +174,6 @@ The platform focuses on making local discovery easier by combining services, pro
 ## 📚 أدلة سوق العمل
 
 - [دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)
+- [دليل الخدمات المحلية والخدمات بالقرب منك](services/local-services.md)
+- [دليل الوظائف وفرص العمل](jobs/jobs.md)
+
